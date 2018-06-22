@@ -4,6 +4,9 @@ PhantomJS ([phantomjs.org](http://phantomjs.org)) is a headless WebKit scriptabl
 
 **Important**: PhantomJS development is suspended until further notice (see [#15344](https://github.com/ariya/phantomjs/issues/15344) for more details).
 
+  ''' It is my (@sjcalamia) intention to investigate the possibility of reopening this for future further development. If that becomes the case, then this repository will be used for development in that vein. I do no expect this to ever become merged back with @ariya 's original repository, excepting that development resume and desireable features have been developed in this fork.
+  If you would like to contribute to this fork, please do so by submitting a pull request. All coding standards adopted by the original code will be enforced, unless noted otherwise.
+
 ## Use Cases
 
 - **Headless web testing**. Lightning-fast testing without the browser is now possible!
@@ -26,4 +29,4 @@ PhantomJS ([phantomjs.org](http://phantomjs.org)) is a headless WebKit scriptabl
 
 PhantomJS is free software/open source, and is distributed under the [BSD license](http://opensource.org/licenses/BSD-3-Clause). It contains third-party code, see the included `third-party.txt` file for the license information on third-party code.
 
-PhantomJS is created and maintained by  [@ariyahidayat](http://twitter.com/AriyaHidayat), with the help of [many contributors](https://github.com/ariya/phantomjs/contributors).
+PhantomJS is created and --maintained-- by  [@ariyahidayat](http://twitter.com/AriyaHidayat), with the help of [many contributors](https://github.com/ariya/phantomjs/contributors).
